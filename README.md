@@ -12,5 +12,5 @@ Before to use we need to install [Anaconda](https://conda.io) based environment:
 
 Then simply execute to run bot:
 
-    source activate sd-car-pytorch
+    source activate ml-dl-with-pytorch
     python $file_from_repo$
